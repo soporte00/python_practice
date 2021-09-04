@@ -19,7 +19,7 @@ while True:
 		print("\nEl número es impar")
 
 
-	action = input("Enter > repetir | q > salir: ")
+	action = input("\nEnter > repetir | q > salir: ")
 
 	if action == 'q':
 		break
