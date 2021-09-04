@@ -33,10 +33,10 @@ import os
 
 
 
-repeat = True
 
 
-while(repeat):
+
+while True:
 	
 	os.system("clear")
 
@@ -102,4 +102,4 @@ while(repeat):
 	action = input('\n ** Para repetir el programa presiona Enter o "q" para salir: ')
 
 	if action == 'q':
-		repeat = False
+		break
