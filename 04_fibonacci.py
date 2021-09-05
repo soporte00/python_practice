@@ -9,7 +9,7 @@ while a <= 1597:
 
 
 '''	
-	crear un programa que entrege números de fibonachi 
+	crear un programa que entrege números de fibonacci 
 	del 0 al 1597, se tienen que mostrar en una sola linea 
 	y no debe ocupar más de 7 lineas de código
 
