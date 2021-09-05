@@ -12,7 +12,7 @@ while True:
 	number = int(input("Ingresa el número a comprobar: "))
 	
 	
-	if (number % 2) == 0:
+	if number % 2 == 0:
 	
 		print("\nEl número es par")
 	else:
