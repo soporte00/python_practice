@@ -53,7 +53,7 @@ while True:
 	
 	employeeYears = int( input("\nIngresa la antiguedad en años: ") )
 	
-	print("\nLos datos ingresados son: \n","\n Nombre: "+ name,"\n Departamento: "+ str(employeeKey),"\n antiguedad: "+ str(employeeYears) +" años" )
+	print("\nLos datos ingresados son: \n",f"\n Nombre: {name}",f"\n Departamento: {employeeKey}",f"\n antiguedad: {employeeYears} años" )
 	
 	agree = input("\n¿Los datos son correctos? escribe si o no: ")
 

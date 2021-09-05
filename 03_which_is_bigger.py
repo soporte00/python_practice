@@ -17,16 +17,13 @@ while True:
 
 
 	if a > b and a > c:
-		print("\nEl número mas grande es "+ str(a))
+		print(f"\nEl número mas grande es {a}")
 
 	elif b > a and b > c:
-		print("\nEl número mas grande es "+ str(b))
+		print(f"\nEl número mas grande es {b}")
 
 	elif c > b and c > a:
-		print("\nEl número mas grande es "+ str(c))
-
-
-
+		print(f"\nEl número mas grande es {c}")
 
 
 	action = input("\n'Enter' > repetir | 'q' > salir: ")
